@@ -1,29 +1,30 @@
-# README #
+# Spring Boot with Jaspersoft Studio Integration
 
-This README would normally document whatever steps are necessary to get your application up and running.
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-### What is this repository for? ###
+## Overview
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This repository contains a Spring Boot project integrated with Jaspersoft Studio for streamlined reporting and data visualization. Use this template to kickstart your development process and take advantage of the powerful combination of Spring Boot and Jaspersoft Studio.
 
-### How do I get set up? ###
+## Features
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+- **Spring Boot Integration**: Leverage the simplicity and power of the Spring Boot framework for building robust and scalable applications.
 
-### Contribution guidelines ###
+- **Jaspersoft Studio Reports**: Create, design, and deploy pixel-perfect reports using Jaspersoft Studio for seamless integration with your Spring Boot application.
 
-* Writing tests
-* Code review
-* Other guidelines
+## Getting Started
 
-### Who do I talk to? ###
+### Prerequisites
 
-* Repo owner or admin
-* Other community or team contact
+Make sure you have the following installed:
+
+- Java 8
+- Maven
+- Jaspersoft Studio
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/monircse021/spring-boot-jaspersoft-studio.git
